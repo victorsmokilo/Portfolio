@@ -1,12 +1,3 @@
-# My Portfolio
-
-The following is a description of each project
-
- Ash1.0 AI
- 
- Pokemon Champions
- 
-
 # Ash1.0
 
 Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on any turn-based games.
