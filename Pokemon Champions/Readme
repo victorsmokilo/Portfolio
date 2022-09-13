@@ -1,3 +1,12 @@
+# My Portfolio
+
+The following is a description of each project
+
+ Ash1.0 AI
+ 
+ Pokemon Champions
+ 
+
 # Ash1.0
 
 Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on any turn-based games.
@@ -28,4 +37,3 @@ Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on an
 **Cons of Ash1.0**
 
 > Ash1.0 does not cheat. This means that Ash1.0 will not be aware of the player's pre-selected moves in the current round and must figure out the best average strategy without this knowledge. This can be seen as a pro or con. Allowing the option for Ash1.0 to cheat can create very dynamic gameplay where the user must try to truly outsmart the AI, but it can also cause frustration.
-
