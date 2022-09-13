@@ -4,7 +4,7 @@ Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on an
 
 1. Ash1.0 simulates battles using 5 possible move choices: the first through fourth moves and a swap.
 2. Ash will simulate a 5 round battle x times for each move choice (x varies on the difficulty of the opponent).
-3. The move with the highest average score will be the move chose.
+3. The move with the highest average score will be the move chosen.
 
 **Difficulties of creating and algorithm that suits Pokémon Champions**
 
