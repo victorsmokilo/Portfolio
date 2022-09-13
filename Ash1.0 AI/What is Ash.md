@@ -1,4 +1,4 @@
-Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on any turn-based games.
+# Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on any turn-based games.
 
 **How does it work?**
 
