@@ -9,7 +9,6 @@ for rows with the given Month, the given Year, and with the EventType equal to S
 will have multiple entries in their ZipCode column: for these rows, each of the different ZipCode’s should be counted once.
 I’d recommend using a dictionary to keep track of the counts.
 Specifications: your program must
- create a pandas Data Frame associated to the file permits.csv.
- allow the user to input a month and a year.
- report the zip code(s) that appear(s) most frequently in the ZipCode column for rows with the given Month, the given
-Year, and with the EventType equal to Shooting Permit
+< create a pandas Data Frame associated to the file permits.csv.
+< allow the user to input a month and a year.
+< report the zip code(s) that appear(s) most frequently in the ZipCode column for rows with the given Month, the given Year, and with the EventType equal to Shooting Permit
