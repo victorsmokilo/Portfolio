@@ -30,3 +30,5 @@ Check out some of the screenshots below!
 # Tons of mini games to earn more cash!
 ![image](https://user-images.githubusercontent.com/97560054/190034526-282e69ce-ceb1-488d-aa7c-5e26d8fa9ae3.png)
 
+# Trainers with unique battling styles and difficulties
+![image](https://user-images.githubusercontent.com/97560054/190037095-4f111f7f-0f65-453c-b68c-e55404c3edd5.png)
