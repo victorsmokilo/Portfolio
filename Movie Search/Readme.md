@@ -13,4 +13,4 @@ Specifications: your program must
 
 > Allow the user to input a month and a year.
 
-> Report the zip code(s) that appear(s) most frequently in the ZipCode column for rows with the given Month, the given Year, and with the EventType equal to Shooting Permit
+> Report the zip code(s) that appear(s) most frequently in the ZipCode column for rows with the given Month, the given Year, and with the EventType equal to Shooting Permit.
