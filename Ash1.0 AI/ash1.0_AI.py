@@ -582,10 +582,6 @@ def choose_random_move_sim(pokemon):
 
 
 
-class battle_field_pokemon:
-    def __init__(self,player1,player2,opponent1,opponent2):
-        pass
-
 
 # BATTLE SIMULATIONS ----------------------------------------------------------------------------------------------------------------------------
 
@@ -3344,58 +3340,6 @@ def swap_sim(user,target,team):
             team._append(x)
         
 
-
-
-def skydive_sim(user, targets):
-    dmg = 30
-    acc = 80
-    crit = 15
-    no_miss = False
-    
-    hit_protect = False
-    movetype = 'flying'
-    
-    
-    for i in range(len(targets)):
-        if calculate_acc_sim(user, acc, targets[i], no_miss):
-            targets[i]._health -= calculate_sim_damage(dmg, user, targets[i], eval(f'effectives.{movetype}_strong'), eval(f'effectives.{movetype}_weak'), eval(f'effectives.{movetype}_null'), crit, movetype, hit_protect)
-        
-        
-
-    
-
-def bite_sim(user, targets):
-    dmg = 45
-    acc = 80
-    crit = 15
-    no_miss = False
-    
-    hit_protect = False
-    movetype = 'flying'
-    
-    
-    for i in range(len(targets)):
-        if calculate_acc_sim(user, acc, targets[i], no_miss):
-            targets[i]._health -= calculate_sim_damage(dmg, user, targets[i], eval(f'effectives.{movetype}_strong'), eval(f'effectives.{movetype}_weak'), eval(f'effectives.{movetype}_null'), crit, movetype, hit_protect)
-            
-            
-    
-    
-start_time = time.time()  
-
-
-trainer_move_choice(player1current[0], player1current2[0], player2current[0], player1current2[0], player1_pokelist, cpu_pokelist, player2current[0], 100, 1)    
-    
-print(first_opponent_simulation[0][0])
-
- 
-
-    
-    
-print("--- %s seconds ---" % (time.time() - start_time))  
-    
-    
-    
     
     
     
