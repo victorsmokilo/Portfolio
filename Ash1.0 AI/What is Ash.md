@@ -1,4 +1,4 @@
-# Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on any turn-based games.
+# Ash1.0 is a simulation AI that abandons tradition decision trees.
 
 ![image](https://user-images.githubusercontent.com/97560054/190037175-41c1937a-125e-45cf-92d2-a12f842fc832.png)
 
