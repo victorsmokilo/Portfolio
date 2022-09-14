@@ -1,5 +1,8 @@
 # Ash1.0 is an AI created for Pokémon Champions but can be optimized to run on any turn-based games.
 
+![image](https://user-images.githubusercontent.com/97560054/190037175-41c1937a-125e-45cf-92d2-a12f842fc832.png)
+
+
 **How does it work?**
 
 1. Ash1.0 simulates battles using 5 possible move choices: the first through fourth moves and a swap.
