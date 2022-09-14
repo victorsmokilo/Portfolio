@@ -15,7 +15,7 @@
 
 > Because Pokémon Champions is a 2 v 2 battling game, a move may have multiple targets, therefore an extra step must be taken to figure out which target returns the highest score.
 
-> To truly optimize the trainer's move, Ash1.0 must take into consideration the move and targets selected during its first run. To put it briefly; Ash 1.0 will run twice, once for the first opponent Pokémon and once for the second opponent Pokémon. To truly find the best score, the algorithm must be aware of the move it chose for the first opponent Pokémon in order to truly chose the best move for the second opponent Pokémon.
+> To truly optimize the trainer's move, Ash1.0 must take into consideration the move and targets selected during its first run. To put it briefly; Ash 1.0 will run twice, once for the first opponent Pokémon and once for the second opponent Pokémon. To truly find the best score, the algorithm must be aware of the move it chose for the first opponent Pokémon in order to truly choose the best move for the second opponent Pokémon.
 
 
 **Pros of Ash1.0**
