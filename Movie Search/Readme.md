@@ -1,6 +1,6 @@
 An assignment from algorithm programming at my college:
 
-2) movies.py
+# movies.py
 I have a spreadsheet, permits.csv, which contains data about film permits issued by the city of New York (gently altered
 from one obtained from NYC Open Data, https://opendata.cityofnewyork.us/).
 Write a program that first creates a pandas Data Frame from this CSV file. The program should then allow the user to enter
