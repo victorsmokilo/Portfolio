@@ -1,7 +1,4 @@
 
-
-from time import sleep
-
 x5 = float(input('x^5 value: '))
 x4 = float(input('x^4 value: '))
 x3 = float(input('x^3 value: '))
@@ -28,5 +25,3 @@ for i in range(1,11):
 
 
 print(x)
-
-sleep(5)
