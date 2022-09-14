@@ -1,6 +1,7 @@
 # This program solves fifth-degree polynomial equations using Newton’s method.
 
 Newton’s method is a method to approximate solutions to an equation f(x) = 0 very quickly. 
+
 It works by starting with a
 (more-or-less random) guess x0 for a solution, and then coming up with better and better approximations x1, x2, x3, etc.,
 using the following process:
